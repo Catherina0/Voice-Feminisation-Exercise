@@ -1,6 +1,16 @@
 # Voice-Feminisation-Exercise
 这是结合作者本人经验和感受制作的并不完善的嗓音训练教程，目前还在测试中  
 
+在写了在写了 ，等奈酱考完雅思回来整理格式&写音色部分
+
+todo：
+1.修改四声音调图错误
+2.整理格式
+3.音色部分内容待整理
+4.言语训练的语料和相关材料的整理
+5.修改内容，规避可能的版权风险
+6.内部测试，完善细节，收集更多的经验和技巧
+
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
