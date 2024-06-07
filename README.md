@@ -12,7 +12,7 @@ todo：
 ~~6.内部测试~~  
 7.完善细节，收集更多的经验和技巧  
 8.把音色部分的示意图画掉（QwQ 有没有哪位可以帮我画这个）  
-
+9.把音调部分示意图加回来，上传语料文档    
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
