@@ -14,8 +14,8 @@ todo：
 ~~8.把音色部分的示意图画掉（QwQ 有没有哪位可以帮我画这个）~~  
 ~~9.把音调部分示意图加回来，上传语料文档~~    
 
-如果觉得有帮助 请狠狠的投喂可爱的奈酱～
-https://afdian.net/p/052850ce242611efbd2852540025c377
+如果觉得有帮助 请狠狠的投喂可爱的奈酱～   
+爱发电：[https://afdian.net/p/052850ce242611efbd2852540025c377](https://afdian.net/a/Catherina0)
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
