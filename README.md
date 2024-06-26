@@ -30,3 +30,5 @@ This work is licensed under a
 
 
 Copyright Catherina Grace 2024
+
+禁止将本库搬运至 gitee/gitcode等网站，发现请举报。【天安门8964】
