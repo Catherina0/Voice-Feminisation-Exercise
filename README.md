@@ -1,5 +1,7 @@
 # Voice-Feminisation-Exercise
 这是结合作者本人经验和感受制作的并不完善的嗓音训练教程，目前还在测试中  
+本文搞是一份自学教程，如果需要奈酱的嗓音训练陪练，可以联系奈酱。  
+TG @catherina0000 ;Email CatherinaGrace102@gmail.com  
 
 ~~在写了在写了 ，等奈酱考完雅思回来整理格式&写音色部分~~
 
