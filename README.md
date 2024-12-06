@@ -4,6 +4,8 @@
 TG @catherina0000 ;  
 Email CatherinaGrace102@gmail.com  
 
+本仓库停止更新，新版嗓音训练以新协议开源
+
 ~~在写了在写了 ，等奈酱考完雅思回来整理格式&写音色部分~~
 
 todo：
